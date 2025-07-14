@@ -6,7 +6,7 @@ package abclientes3c;
 
 /**
  *
- * @author chess
+ * @author David Hernández Chessani
  */
 public class ABClientes3C {
 
