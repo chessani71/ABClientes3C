@@ -20,7 +20,7 @@ public void conectar(){
         conexion=DriverManager.getConnection(
                 "jdbc:mysql://localhost/inrd3a", 
                 "root", 
-                "");
+                "conpassword");
     } catch (ClassNotFoundException ex) {
         Logger.getLogger(BDModelo.class.getName()).log(Level.SEVERE, null, ex);
     }

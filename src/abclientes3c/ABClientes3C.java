@@ -6,7 +6,7 @@ package abclientes3c;
 
 /**
  *
- * @author David Hernández Chessani y DESM3c
+ * @author David Hernández Chessani 14 julio
  */
 public class ABClientes3C {
 
